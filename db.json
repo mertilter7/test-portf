@@ -1,0 +1,35 @@
+{
+  "posts": [
+      {
+          "id" : 1,
+          "title" : "Spend time smart",
+          "description" : "Lorem ipsum dolor sit amet.",
+          "image": "../../src/assets/images/watch.svg"
+      },
+      {
+          "id" : 2,
+          "title" : "Audio podcast",
+          "description" : "Lorem ipsum dolor sit amet.",
+          "image": "../../src/assets/images/mic.svg"
+      },
+      {
+          "id" : 3,
+          "title" : "Boost your time",
+          "description" : "Lorem ipsum dolor sit amet.",
+          "image": "../../src/assets/images/stat.svg"
+      },
+      {
+          "id" : 4,
+          "title" : "Quality",
+          "description" : "Lorem ipsum dolor sit amet.",
+          "image": "../../src/assets/images/dia.svg"
+      }
+  ],
+  "comments" : [
+      {
+          "id" : 1,
+          "title" : "Join us today",
+          "description" : "Lorem ipsum dolor sit amet consectetur adipiscing elit.Dignissimos laudantium fugit volupatibus repellat, inventore totam!" 
+      }
+  ]
+}

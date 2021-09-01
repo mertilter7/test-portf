@@ -1,5 +1,5 @@
 <template>
-  <footer class="sm:hidden bg-purple-900 text-xs text-white text-center p-1.5 mt-10">Copyright 2019 All Rights Reserved</footer>
+  <footer class="sm:hidden bg-purple-900 text-xs text-white text-center p-3 mt-10">Copyright 	&copy;2019 All Rights Reserved</footer>
 </template>
 
 <script>
